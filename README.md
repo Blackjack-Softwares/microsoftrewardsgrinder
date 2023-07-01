@@ -2,4 +2,4 @@
 
 Browser-based Bing auto search bot to earn Microsoft Rewards points.
 
-https://gerisonsabino.com/bing_autosearch
+https://blackjack-softwares.github.io/microsoft-rewards-grinder/
