@@ -43,7 +43,7 @@ const btn_start = document.getElementById("btn-start"),
             }
         },
         search: {
-            limit: 35,
+            limit: 50,
             interval: 5e3,
             window: {
                 open(e) {
